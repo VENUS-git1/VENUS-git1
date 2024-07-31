@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VENUS-git1
+- 💞️ I have an rich perience of 8+ years in full-stack web and AI development.
+- 👀 I’m also interested in Blockchain.
+- 🌱 I’m currently learning Three.js and WebGL.
+- 📫 To contact to me - venusgit@outlook.com
